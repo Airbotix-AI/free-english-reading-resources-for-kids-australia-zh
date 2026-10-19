@@ -18,3 +18,12 @@
 [English](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-ko)
 
 [首页](README.md) · [按年龄与年级选择](YEAR-GUIDE.md) · [免费范围与选用方法](FREE-SCOPE.md) · [完整原创阅读示例](EXAMPLES.md) · [对应文章与相关仓库](RESOURCES.md) · [官方来源与核对方法](SOURCES.md) · [参与维护](CONTRIBUTING.md) · [开放许可](LICENSE.md)
+
+## 2026-10-19
+
+- [Unite for Literacy](https://www.uniteforliteracy.com/corp/faq)
+- [Reading Rockets: Reading Adventure Packs](https://www.readingrockets.org/literacy-home/literacy-tips-activities/reading-adventure-packs)
+- [Storynory](https://www.storynory.com/stella-and-the-surprise-delivery/)
+- [Oxford Owl: activity sheets](https://home.oxfordowl.co.uk/kids-activities/)
+- [Words for Life — National Literacy Trust](https://literacytrust.org.uk/communities/rotherham/for-families/)
+- [NSW Stage 5 reading strategies](https://education.nsw.gov.au/teaching-and-learning/curriculum/literacy-and-numeracy/teaching-and-learning-resources/literacy/teaching-strategies/stage-5/reading)

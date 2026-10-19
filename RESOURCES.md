@@ -20,3 +20,7 @@
 [English](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-ko)
 
 [首页](README.md) · [按年龄与年级选择](YEAR-GUIDE.md) · [免费范围与选用方法](FREE-SCOPE.md) · [完整原创阅读示例](EXAMPLES.md) · [对应文章与相关仓库](RESOURCES.md) · [官方来源与核对方法](SOURCES.md) · [参与维护](CONTRIBUTING.md) · [开放许可](LICENSE.md)
+
+## Airbotix Cheatsheet：直接阅读与分享
+
+[Airbotix Cheatsheet：直接阅读与分享](CHEATSHEETS.md)

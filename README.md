@@ -1,8 +1,10 @@
 # 澳洲孩子免费英语与阅读学习资源
 
+[Airbotix Cheatsheet：直接阅读与分享](CHEATSHEETS.md)
+
 [English](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-ko)
 
-供澳洲家庭使用的 Markdown 指南：12 项英语、早期识字与阅读资源，从学前到 Year 12，提供 14 个年龄／年级起点。由 [Airbotix](https://airbotix.ai/) 维护。中文说明不代表外部课程也提供中文。
+供澳洲家庭使用的 Markdown 指南：18 项英语、早期识字与阅读资源，从学前到 Year 12，提供 14 个年龄／年级起点。由 [Airbotix](https://airbotix.ai/) 维护。中文说明不代表外部课程也提供中文。
 
 对应文章：[澳洲儿童阅读网站比较（英文）](https://airbotix.ai/blog/best-reading-websites-for-kids-australia)
 
@@ -24,6 +26,12 @@
 | [UFLI Foundations Toolbox](https://ufli.education.ufl.edu/foundations/toolbox/) | 5–8 / Foundation–Year 2 | 免费配套短文与练习，需成人指导。教学手册另售；工具箱不等于完整免费课程。核对澳洲版本教学顺序与官方版权规则。 | [↗](https://ufli.education.ufl.edu/faq/) |
 | [FCRR Student Center Activities](https://fcrr.org/student-center-activities) | 4–11 / Preschool–Year 5 | 公开练习用于巩固已教技能，需成人准备。美式 Pre-K–Grade 5 不直接对应澳洲年级。限非营利教育用途；链接原件，不镜像或改编文件。 | [↗](https://fcrr.org/student-center-activities) |
 | [Queensland libraries: LOTE4Kids](https://www.slq.qld.gov.au/collections/public-library-collections/collections-all-queensland-public-libraries) | 3–10 / Preschool–Year 4 | 凭符合条件的图书馆会员资格，使用带英语译文的多语童书。从所在昆州公共图书馆登录并确认资格；不代表所有澳洲家庭或所有平台均可用。 | [↗](https://www.slq.qld.gov.au/collections/public-library-collections/collections-all-queensland-public-libraries) |
+| [Unite for Literacy](https://www.uniteforliteracy.com/) | 3–8 / Preschool–Year 2 | 免费绘本与朗读，无需注册。选择英文文本，逐本检查可用朗读语言。用于共读与词汇，不属于按顺序教学的自然拼读课程。 | [↗](https://www.uniteforliteracy.com/corp/faq) |
+| [Reading Rockets: Reading Adventure Packs](https://www.readingrockets.org/literacy-home/literacy-tips-activities/reading-adventure-packs) | 3–9 / Preschool–Year 3 | 成人带领的免费可打印阅读活动说明，推荐图书需另借或获取。本次核对官方搜索收录说明，实时页面返回 403；活动包不等于附送完整图书。 | [↗](https://www.readingrockets.org/literacy-home/literacy-tips-activities/reading-adventure-packs) |
+| [Storynory](https://www.storynory.com/) | 6–12 / Years 1–6 | 网站故事提供免费音频及文字。成人先检查主题与长度，再把听故事与选段阅读结合。捐款与商店入口另计；不宣称无广告。 | [↗](https://www.storynory.com/stella-and-the-surprise-delivery/) |
+| [Oxford Owl: activity sheets](https://home.oxfordowl.co.uk/kids-activities/) | 3–11 / Preschool–Year 5 | 部分英语活动纸免费，包括写作与理解练习；与需家长登录的电子书库分开。英国年龄／年级及 SATs 标签不等于澳洲课程；所链接图书可能收费。 | [↗](https://home.oxfordowl.co.uk/kids-activities/) |
+| [Words for Life — National Literacy Trust](https://wordsforlife.org.uk/) | 3–12 / Preschool–Year 6 | 按年龄选择免费的家庭交谈、阅读及写作活动。英国活动背景与书目需按实际情况调整。Audible 合作、购书及其他付费选项不计入免费范围。 | [↗](https://literacytrust.org.uk/communities/rotherham/for-families/) |
+| [NSW Stage 5 reading strategies](https://education.nsw.gov.au/teaching-and-learning/curriculum/literacy-and-numeracy/teaching-and-learning-resources/literacy/teaching-strategies/stage-5/reading) | 14–16 / Years 9–10 | 公开教师资料，涵盖推断、偏见、来源及文本结构。由成人挑选并指导合适活动。Stage 5 是 NSW 学段标签；不代表完整高中英语课程或孩子可独立操作的应用。 | [↗](https://education.nsw.gov.au/teaching-and-learning/curriculum/literacy-and-numeracy/teaching-and-learning-resources/literacy/teaching-strategies/stage-5/reading) |
 
 [English](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia) · [简体中文](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-zh) · [한국어](https://github.com/Airbotix-AI/free-english-reading-resources-for-kids-australia-ko)
 
